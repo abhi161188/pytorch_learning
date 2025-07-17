@@ -1,0 +1,1 @@
+This repository consist all the practise work related to PyTorch
